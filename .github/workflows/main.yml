@@ -1,0 +1,6 @@
+name: Example Workflow
+
+on:
+  pull_request:
+    branches:
+      - main  # 確保是針對 main 分支的 PR
